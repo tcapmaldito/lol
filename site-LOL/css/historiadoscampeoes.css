@@ -1,0 +1,10 @@
+body{
+	background-image: url("../img/historia.jpg.");
+}
+.imput{
+	float: center;
+  display: inline-block;
+  position: relative;
+  padding-bottom: 3px;
+  margin-right: 10px;
+}
