@@ -1,3 +1,14 @@
-body{
-	background-image: url("../img/itens.jpg.");
+body {
+  background-image: url("../img/itens.jpg");
+}
+.texto {
+  background: #00000060;
+  padding: 10px;
+  border-radius: 5px;
+}
+.texto h5 {
+  color: aliceblue;
+}
+.texto p {
+  color: aliceblue;
 }

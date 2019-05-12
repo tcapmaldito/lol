@@ -1,10 +1,25 @@
-body{
-	background-image: url("../img/historia.jpg.");
+body {
+  background-image: url("../img/historia.jpg");
 }
-.imput{
-	float: center;
+.input {
   display: inline-block;
   position: relative;
   padding-bottom: 3px;
   margin-right: 10px;
+}
+.champs {
+}
+.champ {
+  margin: 5px;
+  background: rgba(0, 0, 0, 0.767);
+  border-radius: 5px;
+}
+.champ h4 {
+  color: white;
+}
+.champ p {
+  color: white;
+}
+.champ img {
+  border-radius: 5px 5px 0px 0px;
 }
